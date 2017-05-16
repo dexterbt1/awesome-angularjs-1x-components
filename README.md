@@ -1,6 +1,6 @@
 # AngularJS 1.x Components / Directives
 
-A collection of userful components and directives for the AngularJS 1.x (especially >= 1.5)
+A collection of useful components and directives for the AngularJS 1.x (especially >= 1.5)
 
 Some of us are still on AngularJS 1.x, and we will be maintaining software that depends on it in a foreseeable future. 
 
